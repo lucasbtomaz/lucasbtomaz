@@ -3,7 +3,6 @@
 - 🌇 I'm from São Paulo
 - 🏴 I cheer for Corinthians
 - 🏳️‍🌈 LGBTQIA+ 
-- 🌱 I’m currently learning Algoritmo with Gustavo Guanabara
 - 😄 Pronouns: ele/dele
 
 <div align="center">
