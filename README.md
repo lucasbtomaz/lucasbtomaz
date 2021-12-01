@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Bento 👋
+### Olá, eu sou o Lucas Bento 👋 Seja bem-vindx! Coloco aqui projetos pessoais 💻
 
 - 🌇 I'm from São Paulo
 - 🏴 I cheer for Corinthians
