@@ -1,5 +1,5 @@
 ### Olá, eu sou o Lucas Bento 👋 
-### Seja bem-vindx! Coloco aqui projetos pessoais 💻
+### Seja bem-vinde! Coloco aqui projetos pessoais 💻
 
 - 🌇 I'm from São Paulo
 - 🏴 I cheer for Corinthians
@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Faço faculdade de Biblioteconomia e Gestão de UI (UFRJ) e Análise e Desenvolvimento de Sistemas (Anhembi Morumbi)
 
 ### 🌱 I’m currently learning 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 
 
 
