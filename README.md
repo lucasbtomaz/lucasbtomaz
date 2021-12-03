@@ -1,9 +1,17 @@
-### Olá, eu sou o Lucas Bento 👋 Seja bem-vindx! Coloco aqui projetos pessoais 💻
+### Olá, eu sou o Lucas Bento 👋 
+### Seja bem-vindx! Coloco aqui projetos pessoais 💻
 
 - 🌇 I'm from São Paulo
 - 🏴 I cheer for Corinthians
 - 🏳️‍🌈 LGBTQIA+ 
 - 😄 Pronouns: ele/dele
+- ⚡ Fun fact: Faço faculdade de Biblioteconomia e Gestão de UI (UFRJ) e Análise e Desenvolvimento de Sistemas (Anhembi Morumbi)
+
+### 🌱 I’m currently learning 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+
+
 
 <div align="center">
   <a href="https://github.com/LucasBento-Olisantos">
@@ -15,3 +23,4 @@
  	      <a href="https://www.twitch.tv/olucas_tomaz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/lucasbentotomaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+![Snake animation](https://github.com/LucasBento-Olisantos/LucasBento-Olisantos/blob/output/github-contribution-grid-snake.svg)
