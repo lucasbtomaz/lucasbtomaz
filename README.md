@@ -4,9 +4,9 @@
 
  <hr>
 
-[![ Github Badge ](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/LucasBento-Olisantos)](https://www.facebook.com/profile.php?id=100074174958021)
-[![ Crachá do Instagram ](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/LucasBento-Olisantos)](https://instagram.com/tomaz.lucass/)
-[![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/LucasBento-Olisantos)](https://www.linkedin.com/in/lucasbentotomaz)
+[![ Github Badge ](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.facebook.com/profile.php?id=100074174958021)
+[![ Crachá do Instagram ](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lucasbtomaz)](https://instagram.com/tomaz.lucass/)
+[![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
 </h4>
 
 <h3 align="center"> <br>
@@ -45,11 +45,11 @@ atualmente tenho me dedicado a me tornar um especialista em API.
 
 
 <div align="center">
- <a href="https://github.com/LucasBento-Olisantos">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBento-Olisantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBento-Olisantos&layout=compact&langs_count=7&theme=tokyonight"/>
+ <a href="https://github.com/lucasbtomaz">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbtomaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbtomaz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
    
-   ![ Animação de cobra ](https://github.com/LucasBento-Olisantos/LucasBento-Olisantos/blob/output/github-contribution-grid-snake.svg)
+   ![ Animação de cobra ](https://github.com/lucasbtomaz/lucasbtomaz/blob/output/github-contribution-grid-snake.svg)
     
 
