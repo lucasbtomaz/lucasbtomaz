@@ -50,6 +50,6 @@ atualmente tenho me dedicado a me tornar um especialista em API.
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbtomaz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
    
-   ![ Animação de cobra ](https://github.com/lucasbtomaz/lucasbtomaz/blob/output/github-contribution-grid-snake.svg)
+   ![ Animação de cobra ](https://github.com/lucasbtomaz/LucasBento-Olisantos/blob/output/github-contribution-grid-snake.svg)
     
 
