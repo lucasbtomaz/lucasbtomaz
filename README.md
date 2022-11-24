@@ -20,7 +20,7 @@
    
 ```
 Estudante de Biblioteconomia e Gestão de UI (UFRJ) e Análise e Desenvolvimento de Sistemas (Anhembi Morumbi),
-atualmente tenho me dedicado a me tornar um especialista em API.
+atualmente tenho me dedicado a me tornar um Desenvolvedor Full Stack.
 ```
 
 ##  Alguns fatos sobre mim 👨🏻‍💻
@@ -36,10 +36,12 @@ atualmente tenho me dedicado a me tornar um especialista em API.
 
 ## I’m currently learning 💻
   - C#
-  - GIT
+  - GIT & GitHub
   - Angular
   - Docker
   - MySQL
+  - AWS
+  - Python
 
    
 
