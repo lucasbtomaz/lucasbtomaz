@@ -19,7 +19,7 @@
 </h3>
    
 ```
-Estudante de Biblioteconomia e Gestão de UI (UFRJ) e Análise e Desenvolvimento de Sistemas (Anhembi Morumbi),
+Formado em Processos Gerenciais (UNINOVE) e Biblioteconomia e Gestão de UI (UFRJ),
 atualmente tenho me dedicado a me tornar um Desenvolvedor Full Stack.
 ```
 
@@ -27,7 +27,6 @@ atualmente tenho me dedicado a me tornar um Desenvolvedor Full Stack.
    
 - I'm from São Paulo 🌇
 - I cheer for Corinthians 🏴
-- LGBTQIA+ 🌈
 - Pronouns: ele/dele 😄
 - Amo café e sou fã do Mario e da Nintendo
 - Adoro conhecer coisas e obter novas experiências, almejo morar no Canadá 😄
@@ -38,10 +37,11 @@ atualmente tenho me dedicado a me tornar um Desenvolvedor Full Stack.
   - C#
   - GIT & GitHub
   - Angular
-  - Docker
   - MySQL
   - AWS
   - Python
+  - Data Science
+  - Testes
 
    
 
