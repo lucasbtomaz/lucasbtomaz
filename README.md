@@ -28,7 +28,7 @@ atualmente tenho me dedicado a me tornar um Desenvolvedor Full Stack.
 - I'm from São Paulo 🌇
 - I cheer for Corinthians 🏴
 - Pronouns: ele/dele 😄
-- Amo café e sou fã do Mario e da Nintendo
+- Amo café e sou fã do Mario Bros
 - Adoro conhecer coisas e obter novas experiências, almejo morar no Canadá 😄
 
 
