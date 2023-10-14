@@ -3,6 +3,7 @@
 ![ c633c20ede82f0e0ced7d570dbe3a1f3 ](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
  <hr>
+ 
 [![ Crachá do Instagram ](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lucasbtomaz)](https://instagram.com/tomaz.lucass/)
 [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
 </h4>
