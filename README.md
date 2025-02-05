@@ -22,7 +22,6 @@ Cursando Técnico em Desenvolvimento de Sistemas (SENAC).
 ##  Alguns fatos sobre mim 👨🏻‍💻
    
 - I'm from São Paulo 🌇
-- Sou PcD 
 - I cheer for Corinthians 🏴
 - Pronouns: ele/dele 😄
 - Amo café, games e sou fã do Mario Bros
@@ -30,8 +29,13 @@ Cursando Técnico em Desenvolvimento de Sistemas (SENAC).
 
 [![ Crachá do Instagram ](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lucasbtomaz)](https://instagram.com/tomaz.lucass/)
 [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
-[![bio.link](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/lucasbtomaz)
 
 </h4>
-    
+
+## 🎖️ Badges
+
+![Arquitetura de Soluções Foundation](https://images.credly.com/size/100x100/images/e88bc4a2-9b3f-4645-ba36-c6c8bb54c3b5/image.png)
+![Practitioner - D&A Foundation](https://images.credly.com/size/80x100/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png)
+![Practitioner - Generative AI](https://images.credly.com/size/80x100/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png)
+
 
