@@ -6,9 +6,7 @@
 
 <h3 align="center"> <br>
 
-### Olá, eu sou o Lucas Bento!🇧🇷 👋 
-#### Sou PcD e coloco aqui projetos pessoais 💻
-   
+### Olá, eu sou o Lucas Bento!🇧🇷 👋  [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
 <br>
 
 </h3>
@@ -22,13 +20,11 @@ Cursando Técnico em Desenvolvimento de Sistemas (SENAC).
 ##  Alguns fatos sobre mim 👨🏻‍💻
    
 - I'm from São Paulo 🌇
+- Sou PcD
 - I cheer for Corinthians 🏴
 - Pronouns: ele/dele 😄
 - Amo café, games e sou fã do Mario Bros
 - Adoro conhecer coisas e obter novas experiências, almejo morar no Canadá 😄
-
-[![ Crachá do Instagram ](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lucasbtomaz)](https://instagram.com/tomaz.lucass/)
-[![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
 
 </h4>
 
@@ -38,4 +34,6 @@ Cursando Técnico em Desenvolvimento de Sistemas (SENAC).
 ![Practitioner - D&A Foundation](https://images.credly.com/size/80x100/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png)
 ![Practitioner - Generative AI](https://images.credly.com/size/80x100/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbtomaz&layout=compact)
 
+![Lucas Bento GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbtomaz&show_icons=true&theme=transparent)
