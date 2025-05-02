@@ -1,32 +1,35 @@
-<h3 align="center">
- 
-![ c633c20ede82f0e0ced7d570dbe3a1f3 ](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+### Olá, eu sou o Lucas Bento! 🇧🇷 👋  
 
-<hr>
+```
+Sou Engenheiro de Software Jr., com atuação em desenvolvimento e manutenção de sistemas utilizando Angular e .NET.  
+Sou formado em Processos Gerenciais (UNINOVE) e em Biblioteconomia e Gestão de Unidades de Informação (UFRJ).  
+Atualmente, curso Técnico em Desenvolvimento de Sistemas pelo Senac, com foco em desenvolvimento full stack em Java. 
+```
 
-<h3 align="center"> <br>
-
-### Olá, eu sou o Lucas Bento!🇧🇷 👋  [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
+[![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
 <br>
 
 </h3>
    
-```
-Atualmente, sou Engenheiro de Software Jr.
-Formado em Processos Gerenciais (UNINOVE) e Biblioteconomia e Gestão de UI (UFRJ).
-Cursando Técnico em Desenvolvimento de Sistemas (SENAC).  
-```
+---
 
-##  Alguns fatos sobre mim 👨🏻‍💻
-   
-- I'm from São Paulo 🌇
-- Sou PcD
-- I cheer for Corinthians 🏴
-- Pronouns: ele/dele 😄
-- Amo café, games e sou fã do Mario Bros
-- Adoro conhecer coisas e obter novas experiências, almejo morar no Canadá 😄
+## 💡 Sobre mim
 
-</h4>
+- 📍 São Paulo, Brasil
+- ♿ Pessoa com deficiência (PcD)
+- ⚙️ Tecnologias com as quais trabalho: Angular, .NET, SQL e AWS
+- 🧠 Interesses atuais: Python, boas práticas de testes e SRE
+- ☕ Apaixonado por café e jogos (especialmente LEGO e Mario Bros)
+- 🏳️‍🌈 Pronomes: ele/dele
+- 🏴 Corinthiano roxo ⚫⚪
+
+---
+## 🤝 Vamos conversar?
+
+Estou sempre aberto a trocas de conhecimento e colaboração em projetos da comunidade.  
+Se quiser bater um papo ou sugerir algo, fique à vontade para me chamar!
+
+---
 
 ## 🎖️ Badges
 
@@ -34,6 +37,7 @@ Cursando Técnico em Desenvolvimento de Sistemas (SENAC).
 ![Practitioner - D&A Foundation](https://images.credly.com/size/80x100/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png)
 ![Practitioner - Generative AI](https://images.credly.com/size/80x100/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png)
 
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbtomaz&layout=compact)
 
 ![Lucas Bento GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbtomaz&show_icons=true&theme=transparent)
