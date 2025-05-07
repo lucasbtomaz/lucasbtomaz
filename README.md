@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lucas Bento! 🇧🇷 👋  
 
 ```
-Sou Engenheiro de Software Jr., com atuação em desenvolvimento e manutenção de sistemas utilizando Angular e .NET.  
+Sou Engenheiro de Software Jr., com atuação em desenvolvimento e manutenção de sistemas utilizando Angular e C#.  
 Sou formado em Processos Gerenciais (UNINOVE) e em Biblioteconomia e Gestão de Unidades de Informação (UFRJ).  
 Atualmente, curso Técnico em Desenvolvimento de Sistemas pelo Senac, com foco em desenvolvimento full stack em Java. 
 ```
@@ -17,7 +17,7 @@ Atualmente, curso Técnico em Desenvolvimento de Sistemas pelo Senac, com foco e
 
 - 📍 São Paulo, Brasil
 - ♿ Pessoa com deficiência (PcD)
-- ⚙️ Tecnologias com as quais trabalho: Angular, .NET, SQL e AWS
+- ⚙️ Tecnologias com as quais trabalho: Angular, C#, SQL e AWS
 - 🧠 Interesses atuais: Python, boas práticas de testes e SRE
 - ☕ Apaixonado por café e jogos (especialmente LEGO e Mario Bros)
 - 🏳️‍🌈 Pronomes: ele/dele
