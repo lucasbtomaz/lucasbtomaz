@@ -41,14 +41,6 @@ Se quiser bater um papo ou sugerir algo, fique à vontade para me chamar!
 
 ---
 
-## 🎖️ Badges
-
-![Arquitetura de Soluções Foundation](https://images.credly.com/size/100x100/images/e88bc4a2-9b3f-4645-ba36-c6c8bb54c3b5/image.png)
-![Practitioner - D&A Foundation](https://images.credly.com/size/80x100/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png)
-![Practitioner - Generative AI](https://images.credly.com/size/80x100/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png)
-![Associate - Data Modelling](https://images.credly.com/size/80x100/images/04fe38bb-5afa-4d16-ae4e-f0aad575f927/image.png)
-
----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbtomaz&layout=compact)
 
 ![Lucas Bento GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbtomaz&show_icons=true&theme=transparent)
