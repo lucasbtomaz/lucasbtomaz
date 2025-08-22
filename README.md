@@ -18,10 +18,6 @@ API REST simples com documentação Swagger e testes unitários.
 🔹 [**Dashboard de Vendas – Angular**](https://github.com/lucasbtomaz/angular-dashboard-vendas)  
 Interface com ag-grid e gráficos interativos consumindo API fake.
 
-🔹 [**Gestão de Tarefas – .NET**](https://github.com/lucasbtomaz/dotnet-api-gestao-tarefas)
-
-API REST em C# com autenticação JWT e Entity Framework Core.
-
 ---
 
 ## 💡 Sobre mim
