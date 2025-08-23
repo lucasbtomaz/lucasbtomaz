@@ -9,6 +9,9 @@ Sou Engenheiro de Software Jr. com experiência em **Angular**, **C#/.NET**, **S
 
 ## 🚀 Projetos em Destaque
 
+🔹 [**Gamelife - API em .NET**](https://github.com/lucasbtomaz/gamelife-api)
+O GameLife é um projeto pessoal de backend, desenvolvido em .NET 8, com o objetivo de aprofundar seus conhecimentos em Programação Orientada a Objetos (POO), princípios SOLID e design patterns.
+
 🔹 [**Data Analytics – Modelagem & Visualização**](https://github.com/lucasbtomaz/data-analytics-modelagem-dados)  
 Modelagem lógica relacional, consultas SQL e dashboards de visualização.
 
