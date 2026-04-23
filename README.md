@@ -1,16 +1,24 @@
-### Olá, eu sou o Lucas Bento! 🇧🇷 👋  
+### Olá, eu sou o Lucas Bento Tomaz! 🇧🇷 👋  
 
-Sou Engenheiro de Software Jr. com experiência em **Angular**, **C#/.NET**, **SQL** e **AWS**, em constante evolução para atuar com **Engenharia de Dados** e **boas práticas de desenvolvimento**.  
+Engenheiro de Software com foco em Engenharia de Dados 
 
-[![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
-<br>
+· .NET · C# · Angular · Python · AWS · SQL Server · AWS · Datadog · Git · REST APIs
+
+· ♿ Pessoa com deficiência (PcD)
+
+### Certificações
+- AWS Certified Cloud Practitioner
+- Datadog Foundation
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+🔹 [**PrideCare**](https://github.com/lucasbtomaz/PrideCare)
+Sistema de saúde com foco em inclusão LGBTQIA+, desenvolvido como projeto integrador de um sistema para a formação no curso técnico de Desenvolvimento de Sistemas do (SENAC). Cobre cadastro de pacientes, agendamento e histórico clínico com interface acessível.
+
 🔹 [**Gamelife - API em .NET**](https://github.com/lucasbtomaz/gamelife-api)
-O GameLife é um projeto pessoal de backend, desenvolvido em .NET 8, com o objetivo de aprofundar seus conhecimentos em Programação Orientada a Objetos (POO), princípios SOLID e design patterns.
+O GameLife é um projeto pessoal de backend, desenvolvido em .NET 8, com o objetivo de aprofundar meus conhecimentos em Programação Orientada a Objetos (POO), princípios SOLID e design patterns.
 
 🔹 [**Data Analytics – Modelagem & Visualização**](https://github.com/lucasbtomaz/data-analytics-modelagem-dados)  
 Modelagem lógica relacional, consultas SQL e dashboards de visualização.
@@ -23,21 +31,16 @@ Interface com ag-grid e gráficos interativos consumindo API fake.
 
 ---
 
-## 💡 Sobre mim
-
-- 📍 São Paulo, Brasil
-- ♿ Pessoa com deficiência (PcD)
-- ⚙️ Tecnologias com as quais trabalho: Angular, C#, SQL e AWS
-- 🧠 Interesses atuais: Python, boas práticas de testes e SRE
-- ☕ Apaixonado por café e jogos (especialmente LEGO e Mario Bros)
-- 🏳️‍🌈 Pronomes: ele/dele
-- 🏴 Corinthiano roxo ⚫⚪
-
----
 ## 🤝 Vamos conversar?
 
 Estou sempre aberto a trocas de conhecimento e colaboração em projetos da comunidade.  
 Se quiser bater um papo ou sugerir algo, fique à vontade para me chamar!
+
+### Contato
+[![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
+<br>
+
+São Paulo, Brasil · ele/dele
 
 ---
 
