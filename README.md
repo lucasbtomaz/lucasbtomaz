@@ -31,11 +31,6 @@ Interface com ag-grid e gráficos interativos consumindo API fake.
 
 ---
 
-## 🤝 Vamos conversar?
-
-Estou sempre aberto a trocas de conhecimento e colaboração em projetos da comunidade.  
-Se quiser bater um papo ou sugerir algo, fique à vontade para me chamar!
-
 ### Contato
 [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasbtomaz)](https://www.linkedin.com/in/lucasbentotomaz)
 <br>
