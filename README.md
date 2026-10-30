@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Bento Tomaz! 🇧🇷 👋  
 
-Engenheiro de Software com foco em Engenharia de Dados 
+· Engenheiro de Software II
 
 · .NET · C# · Angular · Python · AWS · SQL Server · AWS · Datadog · Git · REST APIs
 
